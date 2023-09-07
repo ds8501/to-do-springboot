@@ -1,6 +1,6 @@
 <HTML>
 <BODY>
  Hello! Do you want to login?
- ${name} iuhihb
+ ${name}
 </BODY>
 </HTML>
